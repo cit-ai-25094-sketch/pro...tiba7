@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// تحديد عدد الأسئلة الثابت في الاختبار
+//   تحديد عدد الأسئلة الثابت في الاختبار
 const int TOTAL_QUESTIONS = 3;
 
 // --- تعريف هياكل البيانات (Structures) ---
